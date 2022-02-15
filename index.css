@@ -609,7 +609,7 @@
 
     .seg1_1 ul li:hover{
 
-        background-color: crimson;
+        background-color: #EABA2A;
         transition: all 0.2s ease-in;
 
     }
